@@ -8,7 +8,7 @@ function sumArray(input){
                 return "array should contain integers only";
             }
         };
-        return sum;
+        
     }else{
         return "array is empty";
     }
